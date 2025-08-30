@@ -39,7 +39,7 @@ body {
   background-color: var(--cir-Blue-950-card-background);
   border-radius: 0.5rem;
   overflow:hidden;
-width: 300px;
+width: 310px;
 display: grid;
 }
 
